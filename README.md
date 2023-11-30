@@ -59,11 +59,20 @@ If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 Program:
 /*
+![Screenshot 2023-11-26 134241](https://github.com/MabbuAdarsh/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149365583/e5c0025f-3dca-4502-9e23-6d7bd4737ba5)
+
+![Screenshot 2023-11-26 134226](https://github.com/MabbuAdarsh/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149365583/123bb0db-7742-403c-beca-5d33ee035761)
+
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: 
 RegisterNumber:  
 */
 Logic symbol & Truthtable
+![Exp1 truthtable](https://github.com/MabbuAdarsh/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149365583/3e87f623-dac8-4fa9-b192-a7b9075b42e4)
+
+
+![Screenshot 2023-11-26 133608](https://github.com/MabbuAdarsh/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149365583/21e7d998-538e-4558-bf4d-0254dd869cb7)
+
 RTL realization
 Output:
 RTL
